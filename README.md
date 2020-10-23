@@ -10,4 +10,4 @@ What's in plan
 --------------
 - add search by cartridge's model
 - add full catalog (product list)
-- plug som stores
+- plug some stores
